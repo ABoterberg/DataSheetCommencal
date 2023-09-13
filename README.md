@@ -1,7 +1,6 @@
 # DataSheetCommencal
 
-Mtb Commencal
-Commencal clash build
+Mtb Freeride Commencal Clash build
 
 
 Specs-
